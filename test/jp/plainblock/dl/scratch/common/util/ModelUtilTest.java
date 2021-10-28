@@ -1,0 +1,14 @@
+package jp.plainblock.dl.scratch.common.util;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class ModelUtilTest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}
